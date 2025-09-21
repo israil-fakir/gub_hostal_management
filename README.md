@@ -2,14 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>GUB Hostel Management System</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; }
-    h1, h2 { color: #2c3e50; }
-    ul { margin-left: 20px; }
-    img { max-width: 100%; height: auto; border: 1px solid #ccc; margin-top: 10px; }
-    .section { margin-bottom: 40px; }
-  </style>
+  <title>GUB Hostel Management System</title>   
 </head>
 <body>
 
@@ -61,6 +54,7 @@
       <li><code>createDb.php</code> – Script to create database</li>
       <li><code>JAVA.js</code>, <code>Script.js</code> – JavaScript files for interactivity</li>
     </ul>    
+    <h4>Project Flowchart: </h4>
     <img src="flowchart.png" alt="flowchart">
   </div>
 
