@@ -40,7 +40,13 @@
     <!-- <img src="hostel background.jpg" alt="Hostel Background">
     <img src="camera.png" alt="Camera Icon"> -->
     <h4>Registration form:</h4>
-    <img src="registation_img.jpg" alt="Registration form">
+    <img src="registation_img.jpg" alt="loging page">
+    <h4>Student Login page:</h4>
+    <img src="student_loging_img.png" alt="loging page" width="400" height="300">
+    <h4>Admin Login page:</h4>
+    <img src="admin_longin.png" alt="loging page" width="400" height="300">
+    <h4>After loging the admin can see student's information and update</h4>
+    <img src="admin_1.png" alt="information">
   </div>
 
   <div class="section">
